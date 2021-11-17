@@ -1,0 +1,3 @@
+This TIN segment is selected from the experiment TIN described in the manuscript as Fig.5,  and is demostrated in Fig. 1. 
+For unfolding, facets DAF/FAE are unfloded along edge DA/AE onto ADB/ACE respectively, then the FDBA/FACE are unfolded along edge AB/AC onto the same plane of facet  ABC, respectively.
+ 
